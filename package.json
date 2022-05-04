@@ -16,6 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -38,8 +39,17 @@
     ]
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "server.js",
+  "main": "App.js",
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Hae Jin Jeong",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haejinyi0183/edens-pals-v2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haejinyi0183/edens-pals-v2/issues"
+  },
+  "homepage": "https://github.com/haejinyi0183/edens-pals-v2#readme"
 }
