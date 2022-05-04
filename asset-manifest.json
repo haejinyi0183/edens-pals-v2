@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/haejinyi0183/edens-pals-v2/static/css/main.a8cb8e86.css",
+    "main.js": "/haejinyi0183/edens-pals-v2/static/js/main.3c97efe7.js",
+    "static/media/bunnie.jpeg": "/haejinyi0183/edens-pals-v2/static/media/bunnie.a2a1ea0ff46a975abf66.jpeg",
+    "static/media/pet.png": "/haejinyi0183/edens-pals-v2/static/media/pet.67a8c4fb516913be620d.png",
+    "static/media/pawprint.png": "/haejinyi0183/edens-pals-v2/static/media/pawprint.c72ec2b2420ff5acefc7.png",
+    "index.html": "/haejinyi0183/edens-pals-v2/index.html",
+    "main.a8cb8e86.css.map": "/haejinyi0183/edens-pals-v2/static/css/main.a8cb8e86.css.map",
+    "main.3c97efe7.js.map": "/haejinyi0183/edens-pals-v2/static/js/main.3c97efe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8cb8e86.css",
+    "static/js/main.3c97efe7.js"
+  ]
+}
